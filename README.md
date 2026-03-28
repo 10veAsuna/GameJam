@@ -1,2 +1,3 @@
 # GameJam
-gamejam比赛
+已废弃（sb github）
+
